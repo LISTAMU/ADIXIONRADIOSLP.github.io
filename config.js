@@ -22,7 +22,7 @@ const CONFIG = {
     ==================================*/
 
     streamURL:
-        "https://stream.zeno.fm/wkvvwgdcnwqvv.m3u",
+        "https://stream.zeno.fm/wkvvwgdcnwqvv",
 
 
     /*==================================
